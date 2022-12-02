@@ -3,6 +3,7 @@ Hi, my name is Eva Lancaster. I am a statistical geneticist specializing in psyc
 
 ## Find me 🧬
 * [Lab website](https://www.pop-gem-lab.com/)
+* [Publications] (https://orcid.org/0000-0002-7371-8094)
 * [Open Science Framework](osf.io/m43wh)
 * [Twitter](https://twitter.com/EvaELancaster)
 * [LinkedIn](https://www.linkedin.com/in/eva-lancaster-phd-a646a444/)
